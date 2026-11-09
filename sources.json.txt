@@ -1,0 +1,233 @@
+[
+    {
+        "name": "360资源",
+        "type": "cms",
+        "url": "shturl.cc/ECJuUlZ",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "1080资源库",
+        "type": "json",
+        "url": "https://api.1080zyku.com/inc/apijson.php",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "艾旦影视",
+        "type": "cms",
+        "url": "shturl.cc/OPW7XAcjh",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "爱坤资源",
+        "type": "cms",
+        "url": "https://ikunzyapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "爱奇艺资源",
+        "type": "cms",
+        "url": "shturl.cc/nF03dXwSfR7f",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "百度资源",
+        "type": "cms",
+        "url": "https://api.apibdzy.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "暴风资源",
+        "type": "cms",
+        "url": "https://bfzyapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "电影天堂",
+        "type": "cms",
+        "url": "shturl.cc/vqUeF2D5XNWMbPri0",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "非凡资源",
+        "type": "cms",
+        "url": "https://cj.ffzyapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "光速资源",
+        "type": "cms",
+        "url": "https://api.guangsuapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "豪华资源",
+        "type": "cms",
+        "url": "shturl.cc/a68bCmZKw",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "红牛资源",
+        "type": "cms",
+        "url": "https://www.hongniuzy2.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "虎牙资源",
+        "type": "cms",
+        "url": "https://www.huyaapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "极速资源",
+        "type": "cms",
+        "url": "https://jszyapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "金鹰资源",
+        "type": "cms",
+        "url": "https://jyzyapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "金鹰资源2",
+        "type": "cms",
+        "url": "https://jinyingzy.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "量子资源",
+        "type": "cms",
+        "url": "https://cj.lziapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "猫眼资源",
+        "type": "cms",
+        "url": "https://api.maoyanapi.top",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "魔都资源",
+        "type": "cms",
+        "url": "shturl.cc/iiLlAHQ0GWoiR",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "如意资源",
+        "type": "cms",
+        "url": "shturl.cc/ax44U8DjuBkn",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "速播资源",
+        "type": "cms",
+        "url": "https://subocj.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "速博资源",
+        "type": "cms",
+        "url": "https://subocaiji.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "新狼资源",
+        "type": "cms",
+        "url": "https://api.xinlangapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "最大资源",
+        "type": "cms",
+        "url": "https://api.zuidapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "U酷资源",
+        "type": "cms",
+        "url": "shturl.cc/SQ7T8P9uXL2q2a",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "U酷资源2",
+        "type": "cms",
+        "url": "https://api.ukuapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "豆瓣资源",
+        "type": "cms",
+        "url": "shturl.cc/P4l8yp5zO4lwu",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "茅台资源",
+        "type": "cms",
+        "url": "shturl.cc/Os8TgGTU2QNjYid",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "牛牛资源",
+        "type": "cms",
+        "url": "https://api.niuniuzy.me",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "索尼资源",
+        "type": "cms",
+        "url": "https://suoniapi.com",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "天涯影视",
+        "type": "cms",
+        "url": "shturl.cc/mfzrbTDsTdp",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "丫丫资源",
+        "type": "cms",
+        "url": "https://cj.yayazy.net",
+        "ua": "",
+        "referer": ""
+    },
+    {
+        "name": "樱花资源",
+        "type": "cms",
+        "url": "https://m3u8.apiyhzy.com",
+        "ua": "",
+        "referer": ""
+    }
+]
